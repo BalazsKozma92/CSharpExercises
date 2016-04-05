@@ -1,0 +1,1 @@
+c:\users\kozma balazs\documents\visual studio 2015\Projects\SortString\SortString\bin\Debug\SortString.exe.config

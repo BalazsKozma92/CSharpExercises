@@ -1,0 +1,6 @@
+c:\users\kozma balazs\documents\visual studio 2015\Projects\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.exe.config
+c:\users\kozma balazs\documents\visual studio 2015\Projects\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.exe
+c:\users\kozma balazs\documents\visual studio 2015\Projects\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.pdb
+c:\users\kozma balazs\documents\visual studio 2015\Projects\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.csprojResolveAssemblyReference.cache
+c:\users\kozma balazs\documents\visual studio 2015\Projects\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.exe
+c:\users\kozma balazs\documents\visual studio 2015\Projects\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.pdb
